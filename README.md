@@ -18,4 +18,4 @@ Python
 Jupyter Notebook
 
 #### Algorthms Used
-Label Encoder, SelectKBest, Chi2, XGB Classifier, Randomised Search CV
+Label Encoder, SelectKBest, Chi2, Logistic Regression
